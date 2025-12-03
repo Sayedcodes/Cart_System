@@ -4,7 +4,7 @@ A simple and interactive shopping cart application built with Python. This proje
 
 ## 🌐 Live Demo
 
-Try the app live: **[Shopping Cart Demo](https://your-app-name.streamlit.app)**
+Try the app live: **[Shopping Cart Demo](https://shoping-cart-system.streamlit.app)**
 
 ## 📋 Features
 
