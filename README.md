@@ -104,7 +104,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Sayed Hamza**
 
-- GitHub: [@yourusername](https://github.com/Sayedcodes)
+- GitHub: [@Sayedcodes](https://github.com/Sayedcodes)
 
 ## ⭐ Show your support
 
